@@ -2,4 +2,4 @@
 Primeiro **repositório versionado** do curso de
 *Git e GitHub*
 
-essa linha eu adicionei diretamente no site, QUE IMPRESSIONANTE!
+essa linha eu __*adicionei__* diretamente no site, QUE IMPRESSIONANTE!
